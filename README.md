@@ -1,7 +1,7 @@
 Atomic build wrapper
 ====================
 
-This builds the latest version of Atomic Run Tool[atomic repo] from the master branch.
+This builds the latest version of [atomic repo] from the master branch.
 
 
 Usage
@@ -18,4 +18,4 @@ Authors
 | [@gbraad](https://twitter.com/gbraad)  |
 
 
-[atomic repo]: https://github.com/projectatomic/atomic
+[atomic repo]: https://github.com/projectatomic/atomic "Atomic Run Tool"
